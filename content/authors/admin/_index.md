@@ -52,9 +52,6 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=R3xGI_8AAAAJ&hl=es
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -81,9 +78,9 @@ Our laboratory is keen to understand how androgens and estrogens affect brain fu
 
 - Hormonal signaling affecting cellular outcome, and how important this is for mitochondrial respiration under neurological diseases in presence or absence of hormones.
 
-- Dysregulation of lipid metabolism within mitochondria and neuroimmune response following brain trauma.
+- Dysregulation of lipid metabolism within mitochondria and neuroimmune response following brain damage.
 
-- Drug design and development of new drugs analogues to hormones for targeting mitochondria
+- Drug design and development of new drugs analogues to hormones for targeting mitochondria.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
