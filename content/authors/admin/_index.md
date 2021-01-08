@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: George Barreto
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Lecturer in Cell Biology/Immunology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Limerick, Limerick, Ireland
+  url: https://www.ul.ie
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mitochondria dynamics/metabolism, menopause, hormonal treatment, neurodegeneration, neuroendocrinology and neuroinflammation.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mitochondria
+- Hormones
+- Brain
+- Androgens
+- Estrogens
+- Lipid metabolism
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Biological Sciences (Neurosciences)
+    institution: Complutense University Madrid (Spain)
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Health Sciences (Neurobiochemistry)
+    institution: Federal University Rio Grande do Norte (Brazil)
+    year: 2005
+  - course: BSc in Physical Therapy
+    institution: Tiradentes University (Brazil)
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +48,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/gesbarreto
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,14 +67,23 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "George.Barreto@ul.ie"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Barreto earned his PhD in Neuroscience (2009) from the Universidad Complutense Madrid (Spain) studying the effects of neurosteroids on reactive glia with traumatic brain injury under the supervision of Professor Luis Miguel Garcia-Segura. His Post-doctoral training in Neuroscience at Stanford University School of Medicine (2009-2011), under the mentorship of Professor Rona G. Giffard, focused on addressing the role of astrocytes activation following stroke and enhance astrocytic functions targeting neuronal protection. With the collaboration of Professor Carla J. Shatz, also from Stanford, Dr Barreto discovered that both PirB receptor and MHCI molecules are involved in the physiopathology of stroke by regulating astroglia activation and behavioural outcome. Nowadays he is a Lecturer in Cell Biology/Immunology in the Department of Biological Sciences at the University of Limerick (Ireland), is a member of the Bernal Institute and Health Research Institute from the same University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Our laboratory is keen to understand how androgens and estrogens affect brain functions, particularly on how these hormones control mitochondrial functions in the healthy and diseased brain with life span in a sex dimorphic manner. We are currently investigating these research areas:
+
+- The effects of synthetic hormones (e.g. tibolone) on mitochondria metabolism.
+
+- Hormonal signaling affecting cellular outcome, and how important this is for mitochondrial respiration under neurological diseases in presence or absence of hormones.
+
+- Dysregulation of lipid metabolism within mitochondria and neuroimmune response following brain trauma.
+
+- Drug design and development of new drugs analogues to hormones for targeting mitochondria
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
