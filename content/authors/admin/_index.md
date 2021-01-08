@@ -1,6 +1,6 @@
 ---
 # Display name
-title: George Barreto
+title: George Barreto, PhD
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,6 @@ interests:
 - Androgens
 - Estrogens
 - Lipid metabolism
-- Neuro
 
 # Education to show in About widget
 education:
@@ -52,7 +51,7 @@ social:
   link: https://twitter.com/gesbarreto
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=R3xGI_8AAAAJ&hl=es
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
