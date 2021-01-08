@@ -24,6 +24,7 @@ interests:
 - Androgens
 - Estrogens
 - Lipid metabolism
+- Neuro
 
 # Education to show in About widget
 education:
