@@ -35,12 +35,12 @@
 
 [[main]]
   name = "News and events"  
-  url = "#News and Events"
+  url = "#News and events"
   weight = 50
 
   [[main]]
   name = "Join our lab"  
-  url = "#Join"
+  url = "#Join our lab"
   weight = 60  
 
 [[main]]
