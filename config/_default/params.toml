@@ -97,7 +97,7 @@ address = {street = "Department of Biological Sciences, University of Limerick",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.67399372107683", longitude = "-8.567468659222573"}, 
+coordinates = {latitude = "52.67399372107683", longitude = "-8.567468659222573"} 
 
 # Directions for visitors to locate you.
 directions = "Schrödinger Building, Office SR2012, second floor"
