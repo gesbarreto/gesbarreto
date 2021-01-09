@@ -11,34 +11,39 @@
 [[main]]
   name = "People"
   url = "#people"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 [[main]]
   name = "News and events"  
   url = "#News and Events"
-  weight = 40
+  weight = 50
 
   [[main]]
   name = "Join our lab"  
   url = "#Join"
-  weight = 50  
+  weight = 60  
+
+[[main]]
+  name = "Research"  
+  url = "#research"
+  weight = 20  
