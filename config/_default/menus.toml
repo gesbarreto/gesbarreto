@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Research"  
+  url = "#research"
+  weight = 20  
+
+[[main]]
   name = "People"
   url = "#people"
   weight = 30
@@ -19,21 +24,21 @@
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
-
-[[main]]
   name = "News and events"  
   url = "#News and events"
   weight = 50
 
-  [[main]]
+[[main]]
   name = "Join our lab"  
   url = "#Join our lab"
-  weight = 60  
+  weight = 60
 
 [[main]]
-  name = "Research"  
-  url = "#research"
-  weight = 20  
+  name = "Contact"
+  url = "#contact"
+  weight = 70
+
+
+
+  
+
